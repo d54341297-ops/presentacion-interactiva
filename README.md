@@ -1,5 +1,3 @@
-# presentacion-interactiva
-Presentación interactiva HDAP sobre agua, atmósfera y huracanes.
 import { useState } from "react";
 import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
